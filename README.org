@@ -1,0 +1,14 @@
+[[./slide.png]]
+
+Haunt configuration to write presentations with reveal.js.
+
+* Usage
+
+1. [[https://dthompson.us/projects/haunt.html][Install Haunt]] of course.
+2. Clone [[https://github.com/hakimel/reveal.js/][reveal.js repository]].
+3. Copy =haunt.scm= and =haunt/= to your reveal.js root path.
+4. Run =$ haunt build= there.
+5. Run =$ haunt serve=.
+6. Go to localhost:8080 in your browser.
+
+Optionally, deploy =site= to your website.
